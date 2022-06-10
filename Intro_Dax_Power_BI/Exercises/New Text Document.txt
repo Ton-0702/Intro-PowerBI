@@ -1,0 +1,1 @@
+Average Pay = SUMX('job_postings', (job_postings[Minimum Pay] + job_postings[Maximum Pay])/2)
